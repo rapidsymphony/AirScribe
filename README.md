@@ -88,7 +88,7 @@ to be torn apart and rebuilt just as easily.
 ```bash
 # 1. Clone the repository
 git clone https://github.com/rapidsymphony/AirScribe.git
-cd airscribe
+cd AirScribe
 
 # 2. Create and activate a virtual environment
 python3 -m venv .venv
