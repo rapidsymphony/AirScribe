@@ -87,7 +87,7 @@ to be torn apart and rebuilt just as easily.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourname/airscribe.git
+git clone https://github.com/rapidsymphony/AirScribe.git
 cd airscribe
 
 # 2. Create and activate a virtual environment
